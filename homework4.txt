@@ -1,1 +1,4 @@
+git config --global user.name "asalbasu"
+git config --global user.email "abdurrahmansabo307@gmaiil.com"
+git config --global core.editor "abswawo"
 
